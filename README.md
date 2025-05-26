@@ -49,7 +49,7 @@ This dashboard was created as part of my data analytics learning journey to prac
 
 **LM Mohammed Akil**  
 Aspiring Data Analyst | Power BI & Excel Enthusiast  
-[LinkedIn](https://linkedin.com) (add your link) • [GitHub](https://github.com) (add your link)
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/lm-mohammed-akil/)) (add your link) • [GitHub](https://github.com) (add your link)
 
 ---
 
