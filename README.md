@@ -3,7 +3,8 @@
 
 This repository contains an **interactive sales dashboard** built using **Power BI**, designed to visualize key business insights from a fictional retail dataset.
 
-![Dashboard Preview](1000053647.png)
+![Dashboard Preview](SalesDasboard_PowerBI_Preview.png)
+
 
 ---
 
